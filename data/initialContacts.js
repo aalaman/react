@@ -1,16 +1,16 @@
 const initialContacts = [
   {
     id: "1",
-    name: "Alice",
+    name: "Antti Alamäki",
     phone: "123456789",
-    email: "alice@mail.com",
-    address: "Helsinki"
+    email: "aalamaki@mail.com",
+    address: "Espoo"
   },
   {
     id: "2",
-    name: "Bob",
+    name: "Lorem ipsum",
     phone: "987654321",
-    email: "bob@mail.com",
+    email: "lipsum@mail.com",
     address: "Espoo"
   }
 ];
